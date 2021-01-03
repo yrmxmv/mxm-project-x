@@ -1,0 +1,13 @@
+{
+  "name": "yrmxmv/mxm-project-x",
+  "description": "Project X (Open Source)",
+  "type": "project",
+  "license": [
+    "MIT"
+  ],
+  "version": "0.0.1",
+  "require": {
+    "php": ">=5.4.0",
+    "yrmxmv/mxm-core": "dev-main"
+  }
+}
